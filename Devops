@@ -1,0 +1,15 @@
+
+Before Devops.
+  The development team develops and tests the code, and the operation team deploies/releases the code into production. And 
+  there is a time gap and misunderstandings between the dev team operation team. We need to minimise the time gap and increase the effecicence of the releases.
+  Devops helps to meet the required criteria.
+
+What is Devops?
+
+Devops is the combination of culture philoosophies, practices and tools that increases an organization's ability to deliver application and service at heigh velocity.
+Devops is combination of Dev team and Operation team.
+
+What is the work of Devops engineer?
+
+Devops is all about automation of processes. Devops engineer should automate the manual tasks which doesn't requrie manual involvement.
+This is achived by using diffrent tools. 
